@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: #ffffff;
+}
+
+.titulo{
+    padding-top: 100px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 2.1em;
+    line-height: 1em;
+    color: #444;
+}

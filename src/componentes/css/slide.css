@@ -1,0 +1,11 @@
+.slide {
+    padding-top: 40px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+.imagem {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
